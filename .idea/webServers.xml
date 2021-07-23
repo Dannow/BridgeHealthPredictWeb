@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="577539b2-dfac-4944-8bf3-bc8c5389b205" name="BridgeHealthConnectServe" url="http://121.199.75.149">
+        <fileTransfer rootFolder="/home/dong/doucments/BridgeHealthSystem/BridgeHealthPredictWeb" accessType="SFTP" host="121.199.75.149" port="22" sshConfigId="036dcbac-0747-4bad-b8ee-9e0728e2fec3" sshConfig="root@121.199.75.149:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
